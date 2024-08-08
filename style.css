@@ -1,0 +1,69 @@
+
+
+.navbar{
+    width: 100%;
+    height: 80px;
+
+}
+.row{
+    width: 100%;
+    height: 400px;
+}
+.col{
+    width: 50%;
+    height: 400px;
+}
+#biriyani{
+    background-image:url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/cmuxn7vtdefb4a3qwicl") ;
+}
+#burger{
+    background-image:url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/cb50671de76f1c1af4bdf71afc7a45cf") ;
+}
+#noodles{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRROuQCZAolJ7Gigr-FvbvuXZWYdDmTRrf0Kw&s") ;
+}
+#panipuri{
+    background-image:url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_240,h_240/zsgyttong5jfp19wwtnw") ;
+}
+#belpuri{
+    background-image:url("https://content.jdmagicbox.com/comp/thiruvalla/z2/9999px468.x468.220213204530.g1z2/catalogue/kailas-bhel-puri-centre-thiruvalla-thiruvalla-sweet-shops-25lrcidzbk-250.jpg") ;
+}
+#pavbaagi{
+    background-image:url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_240,h_240/etmv60ohdttauu5ypzus") ;
+}
+#mandhi{
+    background-image:url("https://www.shutterstock.com/image-photo/saudi-arabian-dish-chicken-kabsa-260nw-2244453649.jpg") ;
+}
+#shawarma{
+    background-image:url("https://shawarmanearby.com/wp-content/uploads/2024/05/beef-shawarma3-300x300.jpg") ;
+}
+#pizza{
+    background-image:url("https://rukminim1.flixcart.com/image/300/300/l20rma80/pizza-maker/x/a/h/0-8-inches-pure-aluminium-pizza-screen-set-of-4-piece-peppa-original-imagdgf8ugrbkea2.jpeg") ;
+}
+.btn1{
+    width: 500px;
+    height:50px;
+    background-color: white;
+    border: solid black 2px;
+    border-radius: 30px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(52, 48, 48);
+}
+.img{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.col1{
+    width: 25%;
+    height: 300px;
+}
+.para{
+    margin-left: 50px;
+}
+.connect{
+    width: 100%;
+    height: 150px;
+}
